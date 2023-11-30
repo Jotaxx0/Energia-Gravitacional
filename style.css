@@ -2,18 +2,18 @@
     text-align: center;
 }
 body{
-    background-color:#6A5ACD;
+    background-color:#A9A9A9;
 }
 /* usa esse para colocar comentario no css*/
 h1{
-    color:#DCDCDC;
+    color:#000000;
     text-align:right;
     font-size:30px;
 }
 .texto{
-   color:#A9A9A9;
+   color:#000000;
     text-align: left;
 }
 em strong {
-    color: #FF0000;
+    color:#00BFFF ;
 }
